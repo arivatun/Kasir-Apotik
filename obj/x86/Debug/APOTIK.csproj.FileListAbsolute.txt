@@ -1,0 +1,84 @@
+G:\Apotik\APOTIK\APOTIK\bin\Debug\APOTIK.exe
+G:\Apotik\APOTIK\APOTIK\bin\Debug\APOTIK.pdb
+G:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csproj.GenerateResource.Cache
+G:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.exe
+G:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.pdb
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.exe
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.pdb
+E:\Apotik\APOTIK\APOTIK\bin\Debug\APOTIK.exe
+E:\Apotik\APOTIK\APOTIK\bin\Debug\APOTIK.pdb
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csproj.GenerateResource.Cache
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csprojResolveAssemblyReference.cache
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+E:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.exe
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.pdb
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csprojResolveAssemblyReference.cache
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csproj.GenerateResource.Cache
+D:\Apotik\APOTIK\APOTIK\bin\Debug\APOTIK.exe
+D:\Apotik\APOTIK\APOTIK\bin\Debug\APOTIK.pdb
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.exe
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.pdb
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\bin\Debug\APOTIK.exe
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\bin\Debug\APOTIK.pdb
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csprojResolveAssemblyReference.cache
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csproj.GenerateResource.Cache
+D:\UTY\SEMESTER 3\STRUKTUR DATA PRATIKUM\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+D:\Apotik\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+F:\Nofi\Tugas\Tugas SM 6\Tugas Pemrograman Client Server Teori\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.exe
+F:\Nofi\Tugas\Tugas SM 6\Tugas Pemrograman Client Server Teori\Apotik\APOTIK\APOTIK\obj\x86\Debug\APOTIK.pdb
+G:\APOTIK\obj\x86\Debug\APOTIK.exe
+G:\APOTIK\obj\x86\Debug\APOTIK.pdb
+G:\APOTIK\bin\Debug\APOTIK.exe
+G:\APOTIK\bin\Debug\APOTIK.pdb
+G:\APOTIK\obj\x86\Debug\APOTIK.csprojResolveAssemblyReference.cache
+G:\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+G:\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+G:\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+G:\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+G:\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+G:\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\APOTIK\obj\x86\Debug\APOTIK.csproj.GenerateResource.Cache
+E:\APOTIK\APOTIK\obj\x86\Debug\APOTIK.exe
+E:\APOTIK\APOTIK\obj\x86\Debug\APOTIK.pdb
+E:\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csprojResolveAssemblyReference.cache
+E:\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+E:\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+E:\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+E:\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csproj.GenerateResource.Cache
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\obj\x86\Debug\APOTIK.exe
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\obj\x86\Debug\APOTIK.pdb
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csprojResolveAssemblyReference.cache
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\obj\x86\Debug\APOTIK.csproj.GenerateResource.Cache
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\bin\Debug\APOTIK.exe
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\bin\Debug\APOTIK.pdb
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.FormLogin.resources
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.FormObat.resources
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.FormTransaksi.resources
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.FormMenu.resources
+C:\Users\arivatun_h\Documents\Visual Studio 2010\Projects\APOTIK\APOTIK\obj\x86\Debug\WindowsFormsApplication1.FormCustomer.resources
